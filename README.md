@@ -1,3 +1,4 @@
+
 # Gaurav Dixit
 
 ## About Me
@@ -46,7 +47,7 @@ Axos Bank, San Diego, CA | June 2022 – December 2022
 Recipe Recommendation Using Natural Language Processing
 - Developed a machine learning-based recipe recommendation system using Natural Language Processing to analyze ingredient compatibility and suggest personalized recipes.
   
-[Link] (https://medium.com/@gauravd_56761/cooking-with-nlp-a-machine-learning-approach-to-recipe-recommendation-12246eb41d9e)
+[Link](https://medium.com/@gauravd_56761/cooking-with-nlp-a-machine-learning-approach-to-recipe-recommendation-12246eb41d9e)
 
 Bank Churn Prediction (Nov 2024)  
 Tools Used: Naïve Bayes, Random Forest, Logistic Regression  
