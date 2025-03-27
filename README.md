@@ -6,14 +6,14 @@ I am an aspiring Product/Business Analyst with a strong background in Business A
 Irvine, CA | gauravd@uci.edu | [LinkedIn](https://linkedin.com/in/gaurav-dixit-818998180/)  
 
 ## Education  
-University of California, Irvine – Master of Science in Business Analytics, June 2025  
+University of California, Irvine Master of Science in Business Analytics, June 2025  
 - Relevant Coursework: Machine Learning, Natural Language Processing, Database Management  
 
-University of California, Riverside – B.S. in Business Administration, March 2023  
+University of California, Riverside B.S. in Business Administration, March 2023  
 - Dean's Honor List | GPA: 3.6/4.0  
 - Member of Undergraduate Business Association and Future Business Leaders of America  
 
-University of California, Los Angeles – Product Management Certification, Nov 2023  
+University of California, Los Angeles Product Management Certification, Nov 2023  
 
 ## Work Experience  
 
