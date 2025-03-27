@@ -1,13 +1,13 @@
 # Gaurav Dixit
 
 ## About Me
-I am a Product Analyst with a strong background in Business Analytics, UX Analysis, and Data Science. Currently pursuing my Master of Science in Business Analytics at the University of California, Irvine. I am passionate about leveraging data to drive business decisions and improve user experiences.
+I am an aspiring Product/Business Analyst with a strong background in Business Analytics, UX Analysis, and Data Science. Currently pursuing my Master of Science in Business Analytics at the University of California, Irvine, I am passionate about leveraging data to drive business decisions and improve user experiences.
 
-San Diego, CA | gauravd@uci.edu | [LinkedIn](https://linkedin.com/in/gaurav-dixit-818998180/)  
+Irvine, CA | gauravd@uci.edu | [LinkedIn](https://linkedin.com/in/gaurav-dixit-818998180/)  
 
 ## Education  
 University of California, Irvine – Master of Science in Business Analytics, June 2025  
-- Relevant Coursework: Machine Learning Analytics, Business Data Management  
+- Relevant Coursework: Machine Learning, Natural Language Processing, Database Management  
 
 University of California, Riverside – B.S. in Business Administration, March 2023  
 - Dean's Honor List | GPA: 3.6/4.0  
