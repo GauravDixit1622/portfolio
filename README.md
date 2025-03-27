@@ -1,6 +1,4 @@
-# Gaurav Dixit  
 
-Aspiring Product Analyst with a background in Business Analytics, UX Analysis, and Data Science. Currently pursuing a Master of Science in Business Analytics at the University of California, Irvine. Passionate about leveraging data to drive business decisions and improve user experiences.  
 
 ## Education  
 University of California, Irvine – M.S. in Business Analytics, June 2025  
