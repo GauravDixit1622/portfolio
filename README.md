@@ -1,5 +1,4 @@
 
-
 ## Education  
 University of California, Irvine – M.S. in Business Analytics, June 2025  
 University of California, Riverside – B.S. in Business Administration, March 2023  
