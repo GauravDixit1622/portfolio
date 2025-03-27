@@ -37,7 +37,4 @@ Explore my work in machine learning, UX analytics, and data science on my [GitHu
 ## Contact  
 [LinkedIn](https://linkedin.com/in/gaurav-dixit-818998180/) | gauravd@uci.edu  
 
----  
-
-This version keeps things concise while maintaining a professional and structured format. Let me know if you want any further refinements!
 
