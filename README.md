@@ -1,6 +1,7 @@
 
 ## Education  
 University of California, Irvine – M.S. in Business Analytics, June 2025  
+-Relevant Coursework: Machine Learning, Database Management, Natural Language Processing
 University of California, Riverside – B.S. in Business Administration, March 2023  
 University of California, Los Angeles – Product Management Certification, Nov 2023  
 
