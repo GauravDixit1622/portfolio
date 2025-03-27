@@ -9,15 +9,19 @@ University of California, Los Angeles – Product Management Certification, Nov 
 
 ## Work Experience  
 **Student Business Data Analyst / Project Manager, Johnson & Johnson (Jan 2025 – Present)**  
-Developed a customer targeting strategy by analyzing cross sales trends. Project Manager of a capstone project for UCI's MSBA program.
+-Developed KPI dashboards and customer targeting strategies by analyzing cross sales trends and data. 
+-Project Manager of a capstone project for UCI's MSBA program.
+
+
 
 **UX Analyst, GSquare Digital (June 2023 – Apr 2024)**  
-Optimized user click-through rates, increasing website traffic by 15%. Designed wireframes and prototypes using Figma and conducted A/B testing and usability testing with Hotjar.  
-Developed and managed A/B testing strategies and coordinated usability testing & first click testing using Hotjar.
+-Optimized user click-through rates, increasing website traffic by 15%. 
+-Designed wireframes and prototypes using Figma and conducted A/B testing and usability testing with Hotjar.  
+-Designed wireframes and prototypes using Figma to support iterative design processes, resulting in a new UI launch
 
 **Treasury Operations Intern, Axos Bank (June 2022 – Dec 2022)**  
-Executed 80% of Annual Reviews for top clients, providing recommendations for unused services resulting in reduced costs via cost-benefit analysis using excel
-Spearheaded new features for a registered investment advisor app, creating prototypes and pitching to senior level executives.
+-Executed 80% of Annual Reviews for top clients, providing recommendations for unused services resulting in reduced costs via cost-benefit analysis using excel
+-Spearheaded new features for a registered investment advisor app, creating prototypes and pitching to senior level executives.
 ## Skills  
 Python, SQL, R, Power BI, Tableau, Excel, Machine Learning, Data Analytics, Agile, JIRA  
 
